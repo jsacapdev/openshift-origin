@@ -33,7 +33,7 @@
 			"value": 128
 		},
 		"adminUsername": {
-			"value": "[openshiftPassword]"
+			"value": "[adminUsername]"
 		},
 		"openshiftPassword": {
 			"value": "[openshiftPassword]"
